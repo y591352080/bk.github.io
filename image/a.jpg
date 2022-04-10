@@ -1,0 +1,15 @@
+--2022-04-11 03:12:27--  http://static.runoob.com/images/runoob-logo.png
+Resolving static.runoob.com (static.runoob.com)... 153.35.88.41
+Connecting to static.runoob.com (static.runoob.com)|153.35.88.41|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://static.runoob.com/images/runoob-logo.png [following]
+--2022-04-11 03:12:27--  https://static.runoob.com/images/runoob-logo.png
+Connecting to static.runoob.com (static.runoob.com)|153.35.88.41|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4434 (4.3K) [image/png]
+Saving to: ‘runoob-logo.png’
+
+     0K ....                                                  100%  896M=0s
+
+2022-04-11 03:12:27 (896 MB/s) - ‘runoob-logo.png’ saved [4434/4434]
+
